@@ -18,8 +18,8 @@
 
 - https://spring.io/projects/spring-security
 
+Este estudo não implantará sites em produção, por ter finalidade de estudo local. 
 
 > [!NOTE]
 >
-> 
-> Código elaborado com finalidade de estudo, sem fins políticos. 
+> Estudo sem fins políticos. 

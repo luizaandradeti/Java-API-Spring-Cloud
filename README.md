@@ -10,3 +10,8 @@
 
 ![Texto Alternativo](img/3.png)
 - https://cloud.spring.io/
+- https://spring.io/guides/gs/gateway
+
+> [!NOTE]
+> 
+>  Contexto estritamente técnico.

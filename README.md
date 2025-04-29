@@ -22,4 +22,4 @@
 > [!NOTE]
 >
 > 
-> Código elaborado com finalidade de estudo, sem fins políticos.
+> Código elaborado com finalidade de estudo, sem fins políticos. 

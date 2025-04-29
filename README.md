@@ -12,7 +12,7 @@
 - https://cloud.spring.io/
 - https://spring.io/guides/gs/gateway
 
-Leia mais:
+Comteúdo adicional:
 - https://spring.io/projects/spring-security
 
 > [!NOTE]

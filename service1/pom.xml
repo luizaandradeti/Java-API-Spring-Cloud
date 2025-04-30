@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.luiza.java</groupId>
-    <artifactId>routes</artifactId>
+    <artifactId>item</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>routes</name>
+    <name>item</name>
     <description>routes</description>
     <url/>
     <licenses>

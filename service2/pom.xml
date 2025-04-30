@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.luiza.java</groupId>
-    <artifactId>filtro</artifactId>
+    <artifactId>service2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>filtro</name>
+    <name>service2</name>
     <description>filtro</description>
     <url/>
     <licenses>

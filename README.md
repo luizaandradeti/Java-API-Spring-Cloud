@@ -6,7 +6,6 @@
 - https://spring.io/guides/gs/gateway
 - https://www.alura.com.br/artigos/o-que-sao-ambientes?
 
-
 ![Texto](img/1.png)
 
 ![Texto Alternativo](img/2.png)

@@ -6,12 +6,12 @@
 - https://spring.io/guides/gs/gateway
 - https://www.alura.com.br/artigos/o-que-sao-ambientes?
 
-![Texto](img/1.png)
 
-![Texto Alternativo](img/2.png)
+![Texto alternativo](https://github.com/luizaandradeti/Java-API-Spring-Cloud/blob/main/img/1.png)
 
-![Texto Alternativo](img/3.png)
+![Texto alternativo](https://github.com/luizaandradeti/Java-API-Spring-Cloud/blob/main/img/2.png)
 
+![Texto alternativo](https://github.com/luizaandradeti/Java-API-Spring-Cloud/blob/main/img/3.png)
 
 ##### 1.2 Conteúdo de Segurança do Spring:
 

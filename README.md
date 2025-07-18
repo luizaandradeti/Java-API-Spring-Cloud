@@ -6,7 +6,7 @@
 >
 > Para fazer deploy recomendo alinhar com a empresa como será feito o pagamento ao provedor cloud que escolherem bem como dos profissionais que escolherem para assessorar nos temas nao tecnicos (consultando o codigo de etica da categoria em questão) para evitar que o servico seja desativado e tanto os clientes como colaboradores, sejam prejudicados por tal falta de compromisso, haja vista que todo serviço e produto tem custos.
 > 
-
+> Os microsservicos podem ser implantados nas grandes nuvens, tais como Azure, Aws e Google.
 
 ##### 1. Conteúdo para construção em Spring Cloud com Java 17, seguindo diretrizes da Documentação Oficial do Spring Framework, em ambiente não produtivo:
 

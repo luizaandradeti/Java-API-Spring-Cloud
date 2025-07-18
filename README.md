@@ -2,13 +2,13 @@
 
 > [!IMPORTANT]
 >
-> Consulte o codigo de Ética da categoria do produto ou serviço sempre que for participar de algum desenvolvimento e antes de fazer a mostra/apresentação do aplicativo ao cliente. O ideal é que nao mude para etapa de producao antes de garantir que os requisitos levantados sejam atendidos.
+> Consulte o codigo de Ética da categoria do produto ou serviço sempre que for participar de algum desenvolvimento e antes de fazer a mostra/apresentação. O ideal é que nao mude para etapa de producao antes de garantir que os requisitos levantados no time sejam atendidos.
 >
 > Para fazer deploy recomendo alinhar com a empresa como será feito o pagamento ao provedor cloud que escolherem bem como dos profissionais que escolherem para assessorar nos temas nao tecnicos (consultando o codigo de etica da categoria em questão) para evitar que o servico seja desativado e tanto os clientes como colaboradores, sejam prejudicados por tal falta de compromisso, haja vista que todo serviço e produto tem custos.
 > 
 > Os microsservicos podem ser implantados nas grandes nuvens, tais como Azure, AWS e Google.
 >
-> Recomenda-se fazer benchmaking com empresas que conseguem entregar o prometidos arcando com as despesas previamente combinadas. 
+> Recomenda-se fazer benchmaking com empresas que conseguem entregar o prometido e pagar os fornecedores escolhidos.
 
 ##### 1. Conteúdo para construção em Spring Cloud com Java 17, seguindo diretrizes da Documentação Oficial do Spring Framework, em ambiente não produtivo:
 

@@ -12,8 +12,7 @@
 >
 >Em caso de deixar de cumprir a palavra e nao arcar com o proposto , nao é honroso celebrar isso e muito menos é fazer projecao em terceiros (atraves de outros terceiros :-!), a falta de compromisso no pagamento em criticos momentos nao é normal, caso o compromisso previamente acordado tenha sido feito pelo proprio que nao pagou mas se propos a isso, deixando uma situacao triste, o sistema pode ter irreparáveis prejuizos em caso de nao pagamento, nao adianta treinar um dom e nao treinar a empatia, caso o dom esteja sendo usado no ramo que precisa disso. A pratica esta voltada a coerencia comportamental, e nao aos pensadores que praticam o oposto do que narram. 
 > 
-> Recomenda-se agregar escolhendo parcerias empresariais respeitadas em varios prismas. Nem so de lucro uma empresa adquire valor. 
-
+> Recomenda-se agregar escolhendo parcerias empresariais respeitadas em varios aspectos. 
   
 Voltando ao script, segue alguns links para consultas adicionais tangentes ao codigo. 
 - https://cloud.spring.io/

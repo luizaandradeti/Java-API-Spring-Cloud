@@ -4,7 +4,7 @@
 >
 > Consulte o codigo de Ética da categoria do produto ou serviço sempre que for participar de algum desenvolvimento. 
 >
-> Para fazer deploy recomendo alinhar com a empresa como sera feito o pagamento para evitar que o servico seja desativado, haja vista que todo servico e produto tem custos.
+> Para fazer deploy recomendo alinhar com a empresa como será feito o pagamento ao provedor para evitar que o servico seja desativado, haja vista que todo serviço e produto tem custos.
 > 
 
 

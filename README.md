@@ -8,7 +8,7 @@
 > 
 > Os microsservicos podem ser implantados nas grandes nuvens, tais como Azure, AWS e Google.
 >
-> Recomenda-se fazer benchmaking com empresas que alem de ja terem alcançado a excelência, conseguem  pagar os fornecedores previamente escolhidos, de maneira que possa ter melhores referências para adquirir o habito de respeitar a sua propria palavra, possibilitanto desta forma, o seu sim seja sim nos compromissos. Em caso de deixar de cumprir a palavra, nao é honroso celebrar isso e muito menos é fazer  projecao em terceiros (atraves de outros terceiros :-!), nao adianta treinar um dom e nao treinar a empatia, caso o dom esteja sendo usado no ramo que precisa disso. A pratica esta voltada a coerencia comportamental, e nao aos pensadores que praticam o oposto do que narram. 
+> Recomenda-se fazer benchmaking com empresas que alem de ja terem alcançado a excelência, conseguem  pagar os fornecedores previamente escolhidos, de maneira que possa ter melhores referências para adquirir o habito de respeitar a sua propria palavra, possibilitanto desta forma, o seu sim seja sim nos compromissos. Em caso de deixar de cumprir a palavra e nao arcar com o proposto , nao é honroso celebrar isso e muito menos é fazer projecao em terceiros (atraves de outros terceiros :-!), a falta de compromisso no pagamento em determinadas situacoes nao e normal, nao adianta treinar um dom e nao treinar a empatia, caso o dom esteja sendo usado no ramo que precisa disso. A pratica esta voltada a coerencia comportamental, e nao aos pensadores que praticam o oposto do que narram. 
 
 Voltando ao script, segue alguns links para consultas adicionais tangentes ao codigo. 
 - https://cloud.spring.io/

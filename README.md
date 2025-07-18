@@ -8,7 +8,7 @@
 > 
 > Os microsservicos podem ser implantados nas grandes nuvens, tais como Azure, AWS e Google.
 >
-> Recomenda-se fazer benchmaking com empresas que alem de ja terem alcançado a excelência, conseguem  pagar os fornecedores previamente escolhidos, de maneira que possa ter melhores referências para adquirir o habito de respeitar a sua propria palavra, possibilitanto desta forma, o seu sim seja sim nos compromissos. Em caso de deixar de cumprir a palavra, nao celebre isso e nem faca projecao em terceiros (atraves dd outros terceiros :-!), nao adianta treinar um dom e nao treinar a empatia, caso o dom esteja sendo usado no ramo que precisa disso. A pratica esta voltada a coerencia comportamental, e nao aos pensadores que praticam o oposto do que narram. 
+> Recomenda-se fazer benchmaking com empresas que alem de ja terem alcançado a excelência, conseguem  pagar os fornecedores previamente escolhidos, de maneira que possa ter melhores referências para adquirir o habito de respeitar a sua propria palavra, possibilitanto desta forma, o seu sim seja sim nos compromissos. Em caso de deixar de cumprir a palavra, nao celebre isso e nem faca projecao em terceiros (atraves de outros terceiros :-!), nao adianta treinar um dom e nao treinar a empatia, caso o dom esteja sendo usado no ramo que precisa disso. A pratica esta voltada a coerencia comportamental, e nao aos pensadores que praticam o oposto do que narram. 
 
 - https://cloud.spring.io/
 - https://spring.io/guides/gs/gateway

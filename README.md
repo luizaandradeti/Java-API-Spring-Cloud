@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 >
-> Consulte o codigo de Ética da categoria do produto ou serviço sempre que for participar de algum desenvolvimento antes de fazer a mostra e apresentação ao publico final. O ideal é que nao mude para etapa de producao antes de garantir os requisitos levantados sejam atendidos.
+> Consulte o codigo de Ética da categoria do produto ou serviço sempre que for participar de algum desenvolvimento e antes de fazer a mostra e apresentação ao publico final. O ideal é que nao mude para etapa de producao antes de garantir os requisitos levantados sejam atendidos.
 >
 > Para fazer deploy recomendo alinhar com a empresa como será feito o pagamento ao provedor cloud que escolherem bem como dos profissionais que escolherem para assessorar nos temas nao tecnicos (consultando o codigo de etica da categoria em questão) para evitar que o servico seja desativado e tanto os clientes como colaboradores, sejam prejudicados por tal falta de compromisso, haja vista que todo serviço e produto tem custos.
 > 

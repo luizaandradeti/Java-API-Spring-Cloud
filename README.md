@@ -4,7 +4,7 @@
 >
 > Consulte o codigo de Ética da categoria do produto ou serviço sempre que for participar de algum desenvolvimento. 
 >
-> Para fazer deploy recomendo alinhar com a empresa como será feito o pagamento ao provedor cloud para evitar que o servico seja desativado, haja vista que todo serviço e produto tem custos.
+> Para fazer deploy recomendo alinhar com a empresa como será feito o pagamento ao provedor cloud que escolherem bem como dos profissionais que escolherem para assessorar nos temas nao tecnicos (consultando o codigo de etica da categoria em questão) para evitar que o servico seja desativado e tanto os clientes como colaboradores, sejam prejudicados por tal falta de compromisso, haja vista que todo serviço e produto tem custos.
 > 
 
 

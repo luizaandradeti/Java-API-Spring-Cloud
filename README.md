@@ -4,7 +4,7 @@
 >
 > Caso valorize a credibilidade e a confiança, consulte o codigo de ética da classe profissional dos stakeloders proximos ao produto ou serviço que irá comercializar, consulte-os também sempre que for participar de algum desenvolvimento, antes de fazer a mostra/apresentação e antes de fazer parceria. O ideal é que nao mude para etapa de producao antes de garantir que os requisitos levantados no time sejam atendidos.
 >
-> Para fazer deploy recomendo alinhar com a empresa como será feito o pagamento ao provedor cloud que escolherem bem como dos profissionais que escolherem para trabalhar (mediante honorários com faixas classificadas na tabela da area por exemplo )nos temas nao tecnologicos (consultando o codigo de ética da classe profissional  em questão) para evitar que o servico seja desativado e tanto os clientes como colaboradores, sejam prejudicados por tal falta de compromisso, haja vista que todo serviço e produto tem custos e o wue trabalha é digno do seu salario.
+> Para fazer deploy recomendo alinhar com a empresa como será feito o pagamento ao provedor cloud que escolherem bem como dos profissionais que escolherem para trabalhar (mediante honorários com faixas classificadas na tabela da area por exemplo )nos temas nao tecnologicos (consultando o codigo de ética da classe profissional  em questão) para evitar que o servico seja desativado e tanto os clientes como colaboradores, sejam prejudicados por tal falta de compromisso, haja vista que todo serviço e produto tem custos e o que trabalha é digno do seu salario.
 > 
 > Os microsservicos podem ser implantados nas grandes nuvens, tais como Azure, AWS e Google.
 >

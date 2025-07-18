@@ -1,5 +1,13 @@
 "# Java-API-Spring-Cloud Web Services" 
 
+> [!IMPORTANT]
+>
+> Consulte o codigo de Ética da categoria do produto ou serviço sempre que for participar de algum desenvolvimento. 
+>
+> Para fazer deploy recomendo alinhar com a empresa como sera feito o pagamento.
+> 
+
+
 ##### 1. Conteúdo para construção em Spring Cloud com Java 17, seguindo diretrizes da Documentação Oficial do Spring Framework, em ambiente não produtivo:
 
 - https://cloud.spring.io/

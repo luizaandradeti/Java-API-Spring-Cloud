@@ -8,7 +8,7 @@
 > 
 > Os microsservicos podem ser implantados nas grandes nuvens, tais como Azure, AWS e Google.
 >
-> Recomenda-se fazer benchmaking com empresas que conseguem entregar o prometido e pagar os fornecedores escolhidos.
+> Recomenda-se fazer benchmaking com empresas que alem de alcançar excelência, conseguem  pagar os fornecedores previamente escolhidos.
 
 ##### 1. Conteúdo para construção em Spring Cloud com Java 17, seguindo diretrizes da Documentação Oficial do Spring Framework, em ambiente não produtivo:
 

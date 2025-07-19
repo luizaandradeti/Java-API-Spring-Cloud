@@ -14,7 +14,7 @@
 > 
 > Recomenda-se agregar valor escolhendo parcerias empresariais respeitadas em varios aspectos. 
 >
-> Este conteudo nao tem fim politicos, favor nao fazer inferencias, nao tenho nemhum objetivo politico e nao sou da area politica. 
+> Este conteudo nao tem fim politicos, favor nao fazer inferencias, nao tenho nenhum objetivo politico e nao sou da area politica. 
 
 
 Voltando ao script, segue alguns links para consultas adicionais tangentes ao codigo. 
